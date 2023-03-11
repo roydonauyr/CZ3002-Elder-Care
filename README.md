@@ -1,4 +1,4 @@
-# Elder Care Web Application
+# Elder Care Web App
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/CZ3002-Elder-Care)
 ![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/CZ3002-Elder-Care)
 ![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/CZ3002-Elder-Care)
